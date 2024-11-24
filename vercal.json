@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/blog/(.*)",
+        "destination": "/api/blog/$1"
+      }
+    ]
+  }
+  
